@@ -23,8 +23,8 @@ This project focuses on real interactive fuctionality.
 
 ## Running the Project
 
-- `git clone`
-- `cd project`
+- `git clone https://github.com/ayabiodun/Todo-App.git`
+- `cd Todo-App`
 - `npm install`
 - Then open the `index.html` in your preferred website.
 
