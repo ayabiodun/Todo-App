@@ -31,7 +31,3 @@ This project focuses on real interactive fuctionality.
 ### Reach me:
 
 * LinkedIn: [Ayomide Abiodun](https://www.linkedin.com/in/ayabiodun/)
-
-Check the [Live Demo](https://podiaclone.netlify.app)
-
-
