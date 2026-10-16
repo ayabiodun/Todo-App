@@ -26,6 +26,7 @@ This project focuses on real interactive fuctionality.
 - `git clone https://github.com/ayabiodun/Todo-App.git`
 - `cd Todo-App`
 - `npm install`
+- `npx tsc`
 - Then open the `index.html` in your preferred website.
 
 ### Reach me:
